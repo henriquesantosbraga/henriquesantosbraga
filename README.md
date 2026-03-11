@@ -10,7 +10,7 @@
 <h2>👨‍💻 Sobre mim</h2>
 
 <p>
-Sou estudante da área de tecnologia com interesse em <b>desenvolvimento de software</b> e <b>lógica de programação</b>.
+Sou estudante da área de tecnologia com interesse em <b>desenvolvimento de software</b> e <b>programação</b>.
 Atualmente estudo e desenvolvo projetos utilizando <b>Java</b> e <b>C</b>, buscando aprimorar minhas habilidades em algoritmos e resolução de problemas.
 </p>
 
